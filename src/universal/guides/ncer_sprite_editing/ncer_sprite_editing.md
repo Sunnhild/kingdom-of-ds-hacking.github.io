@@ -68,7 +68,7 @@ Editing trainer sprites without patterns *(Aka: An apology letter from Jay-san a
 > <details>
 > <summary style="margin:.5em 0em;">🎥 Video version</summary>
 > <hr>
-> <div class="card" style="--card-color: red"><a href="https://www.youtube.com/watch?v=kZW9LTiAfrY"><strong>Pokemon DS Rom Editing Tutorial Pt 2.5: Easier Editing w/ RECN Files (Aka: NCER)</strong></a><div class="video-responsive"><iframe type="text/html" width="480" height="270" src="http://www.youtube.com/embed/kZW9LTiAfrY" frameborder="0" title="Jay-San: Pokemon DS Rom Editing Tutorial Pt 2.5: Easier Editing w/ NCER Files (Aka: NCER)" allowfullscreen></iframe></div></div>
+> <div class="card" style="--card-color: red"><a href="https://www.youtube.com/watch?v=kZW9LTiAfrY"><strong>Pokemon DS Rom Editing Tutorial Pt 2.5: Easier Editing w/ RECN Files (Aka: NCER)</strong></a><div class="video-responsive"><iframe type="text/html" width="480" height="270" src="https://www.youtube.com/embed/kZW9LTiAfrY" frameborder="0" title="Jay-San: Pokemon DS Rom Editing Tutorial Pt 2.5: Easier Editing w/ NCER Files (Aka: NCER)" allowfullscreen></iframe></div></div>
 > </details>
 
 --- 
